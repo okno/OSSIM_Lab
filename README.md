@@ -6,3 +6,5 @@ Data &amp; Files for the OSSIM Lab redteam/blueteam with Alieanvault
 
 File utilizzati per preparare il laboratorio si attacco e difesa basato su Alienvault OSSIM, la configurazione di server, client, device, ed il testing XSS per il monitoraggio tramite ossec-agent e syslogd. 
 
+Link download Alienvault Opensource 64bit OSSIM/Sensor: 
+https://dlcdn.alienvault.com/AlienVault_OSSIM_64bits.iso
