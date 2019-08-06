@@ -1,0 +1,7 @@
+"IPs";"Hostname";"FQDNs";"Description";"Asset Value";"Operating System";"Latitude";"Longitude";"Host ID";"External Asset";"Device Type"
+"192.168.12.120";"01-ayanami";"";"Server applicativo interno";"5";"Debian Debian 10";"45.4642";"9.19";"294A4EC3A36511E9B642000C2948B85A";"0";"Server:HTTP Server,Server:Web Server,Server:Internal Server"
+"192.168.12.201";"02-asuka";"";"PC Uffici";"2";"Microsoft Windows 10 64-bit";"45.4642";"9.19";"294A4EC3A37211E9B642000CD9335E98";"0";"Endpoint:Workstation"
+"192.168.12.205";"alienvault";"";"SIEM - SOC";"5";"AlienVault OS";"45.4642";"9.19";"234B4664A36111E992274C6C3ADCA296";"0";"Server:IDS/IPS"
+"192.168.12.200";"alienvault-sensor";"";"Sensore raccolta log";"5";"Debian Debian Linux 3.0";"45.4642";"9.19";"294A4EC3A4C011E9BB99000CA9EB7A0E";"0";"Security Device:Intrusion Detection System (IDS)"
+"192.168.12.1";"firewall";"";"Firewall di rete Sonicwall";"5";"SonicWall SonicOS 6.2.2.0";"45.4642";"9.19";"294A4EC3A36111E98DDD000C9E045F40";"0";"Network Device:Firewall"
+"192.168.6.10";"okno";"";"DevSecOp";"0";"QubeOS";"45.4384";"10.9916";"294A4EC3A36111E98DDD000C636C810A";"1";"Endpoint:Laptop"
